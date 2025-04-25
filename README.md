@@ -28,7 +28,7 @@ Perfect for accountants, businesses, and devs who are tired of doing it manually
 - `pandas`, `numpy`, `openpyxl`, `selenium`
 - Docker 🐳
 - Pytest for testing
--sqlite
+- sqlite
 ---
 
 ## ⚙️ Installation & Usage
