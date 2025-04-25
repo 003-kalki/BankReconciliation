@@ -28,7 +28,7 @@ Perfect for accountants, businesses, and devs who are tired of doing it manually
 - `pandas`, `numpy`, `openpyxl`, `selenium`
 - Docker 🐳
 - Pytest for testing
-
+-sqlite
 ---
 
 ## ⚙️ Installation & Usage
@@ -40,11 +40,12 @@ git clone https://github.com/yourusername/bankAutomation.git
 cd bankAutomation
 pip install -r requirements.txt
 python app/reconciler.py
-
+```
 ###🐳 Docker Setup
-
+```bash
 # Build the Docker image
 docker build -t bank-reconciliation-tool .
 
 # Run the container (mounting local data folder)
 docker run -v $(pwd)/data:/app/data bank-reconciliation-tool
+```
