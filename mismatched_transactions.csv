@@ -1,0 +1,4 @@
+Date_bank,Description_bank,Reference Number,Debit_bank,Credit_bank,Balance,Date_internal,Description_internal,Debit_internal,Credit_internal,Debit_Match,Credit_Match,Is_Matched
+2025-04-01,Amazon AWS Services,TXN10234,1500.0,,8500.0,2025-04-01,AWS Services - March,500.0,,False,True,False
+2025-04-10,Adobe Creative Cloud,TXN10242,90.0,,15080.0,2025-04-10,Adobe Suite,900.0,,False,True,False
+2025-04-14,Refund from Supplier,TXN10247,,65.0,17335.0,2025-04-14,Supplier Refund,,650.0,True,False,False
