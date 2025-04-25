@@ -31,7 +31,6 @@ Perfect for accountants, businesses, and devs who are tired of doing it manually
 
 ---
 
-
 ## ⚙️ Installation & Usage
 
 ### 🔧 Local Setup
@@ -42,7 +41,8 @@ cd bankAutomation
 pip install -r requirements.txt
 python app/reconciler.py
 
-🐳 Docker Setup
+###🐳 Docker Setup
+
 # Build the Docker image
 docker build -t bank-reconciliation-tool .
 
